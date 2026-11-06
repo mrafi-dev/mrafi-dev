@@ -1,5 +1,7 @@
 ## Hi there , i'm Muhammad Rafi Ramadhan👋
 
+![rafibanner](img/banner%20github%20rafi.jpeg)
+
 <!--
 **mrafi-dev/mrafi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on website **whoot**
-![happy code](giphy.gif)
+![happy code](img/giphy.gif)
