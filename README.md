@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,php,javascript,c,cpp,py,laravel,react&theme=dark&perline=5)](https://skillicons.dev)
 
 #### 🌐connect with me 
-![https://www.instagram.com/rafi_ramadhannn?xtok=eTdzN2FyZHo1dTR6](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/muhammad-ramadhan-5b9033219](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafi_ramadhannn?xtok=eTdzN2FyZHo1dTR6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ramadhan-5b9033219)
 <h3 data-importer="text" align="left">Let's Play</h3>
 
 ###
