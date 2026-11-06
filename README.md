@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on website **whoot**
+
+🎓 I am an Informatics Engineering graduate with a strong passion for software development and continuously learning new technologies.
+
 ![happy code](img/giphy.gif)
