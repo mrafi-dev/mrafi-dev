@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on website **whoot**
-🌱 I’m currently learning react.js Framework
 ![happy code](giphy.gif)
